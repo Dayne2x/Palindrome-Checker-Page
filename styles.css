@@ -1,0 +1,96 @@
+/* CSS RESET */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+image, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+input, button, textarea, select {
+  font: inherit;
+}
+
+/* PAGE LAYOUT */
+
+html { 
+  background: url(images/bg-image.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  font-family: "League Spartan", "sans-serif";
+  color: whitesmoke;
+}
+
+.welcome-section {
+  padding-left: 5rem;
+  padding-top: 7rem;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #7D0552;
+  padding-bottom: 3rem;
+}
+
+.desc {
+  font-size: 2rem;
+  height: 15rem;
+  width: 22rem;
+  word-break: break-word;
+}
+
+.element-position {
+  padding-left: 5rem;
+  padding-top: 5rem;
+}
+
+.input-field {
+  height: 2rem;
+  width: 15rem;
+  text-align: center;
+}
+
+.button {
+  padding-top: 2rem;
+  padding-left: 4rem;
+}
+
+.submit-button {
+  height: 4rem;
+  width: 7rem;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.result {
+  padding-top: 2rem;
+  font-size: 2.5rem;
+  color: #7D0552;
+}
+
+.details {
+  font-size: 1.5rem;
+}
