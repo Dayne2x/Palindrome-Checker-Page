@@ -23,7 +23,7 @@ This is a simple palindrome checker function I created while, working on a fCC c
 ### Links
 
 - GitHub URL: [GitHub Code](https://github.com/Dayne2x/palindrome-checker-page)
-- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/palindrome-checker-page/)
+- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Palindrome-Checker-Page/)
 
 ## My process
 
